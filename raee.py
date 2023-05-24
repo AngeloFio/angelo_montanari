@@ -99,7 +99,7 @@ while True:
           "SI ---> se vuoi continuare",
           "NO ---> se vuoi interrompere il programma")
     smetti = input()
-    smetti.upper()
+    smetti = smetti.lower()
     if smetti == "no":
         print("--------------------------------------",
               "\n ---> HAI TERMINATO IL PROGRAMMA <---",
