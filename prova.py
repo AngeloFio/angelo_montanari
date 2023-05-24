@@ -1,0 +1,1 @@
+rifiuto = input("Inserisci il rifiuto che vuoi cercare: ")
